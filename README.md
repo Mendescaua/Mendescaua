@@ -1,5 +1,5 @@
 <h1>Sobre mim</h1>
-<img align="center" alt="Rafa-HTML" height="100%" width="100%" src="https://i.pinimg.com/564x/cd/b6/aa/cdb6aa96e06c2954db271b119d7dde44.jpg">
+<img align="center" alt="Rafa-HTML" height="100%" width="100%" src="https://i.pinimg.com/564x/da/91/df/da91df0a64554a82a04ee70aed92af1e.jpg">
 - 👋 Olá, meu nome é Cauã, tenho 17 anos e atualmente estou dedicado aos estudos na área de tecnologia. Ao longo do tempo, desenvolvi uma abordagem organizada e comprometida em relação ao meu futuro acadêmico e profissional.
 Recentemente, concluí um curso técnico em Desenvolvimento de Sistemas, o que ampliou meu entendimento nesse campo específico. Contudo, meu interesse por programação persiste, e estou ansioso para continuar aprimorando minhas habilidades nessa área.
 Além disso, estou matriculado em um curso de inglês na instituição CNA, reconhecendo a importância do domínio desse idioma no contexto da tecnologia e do desenvolvimento profissional.
