@@ -1,4 +1,3 @@
-<h1>Sobre mim</h1>
 <img align="center" alt="Meu banner" width='100%' src="https://i.pinimg.com/564x/da/da/a0/dadaa0cd739ca2cc6e6cf9479fcf1afb.jpg">
 - 👋 Olá, meu nome é Cauã, tenho 17 anos e atualmente estou dedicado aos estudos na área de tecnologia. Ao longo do tempo, desenvolvi uma abordagem organizada e comprometida em relação ao meu futuro acadêmico e profissional.
 Recentemente, concluí um curso técnico em Desenvolvimento de Sistemas, o que ampliou meu entendimento nesse campo específico. Contudo, meu interesse por programação persiste, e estou ansioso para continuar aprimorando minhas habilidades nessa área.
