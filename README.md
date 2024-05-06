@@ -8,7 +8,7 @@ Tenho o hábito de aprender com os desafios e erros, sempre buscando oportunidad
 </p>
 - 💼 Open to Work
 
-- 🌱 Estudando JavaScript / Typescript e Inglês
+- 🌱 Estudando JavaScript, Typescript / React e Inglês
 
 - 📩 Contate-me pelo email: cauamende1703@gmail.com
 
