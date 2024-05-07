@@ -1,4 +1,4 @@
-<img align="center" alt="Meu banner" width='100%' src="![image](https://github.com/Mendescaua/Mendescaua/assets/104581895/3ec4dfbb-88db-4013-b504-e2d000bdf26d)
+<img align="center" alt="Meu banner" width='100%' src="(https://github.com/Mendescaua/Mendescaua/assets/104581895/3ec4dfbb-88db-4013-b504-e2d000bdf26d)
 ">
 <p>
 <strong> 
