@@ -1,4 +1,4 @@
-<img align="center" alt="Meu banner" width='100%' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fin%2Flucas-pereira-de-lima-programador&psig=AOvVaw2hD7MI8e6wswACbMknWM_5&ust=1715127516421000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDJ8IWi-oUDFQAAAAAdAAAAABAc">
+<img align="center" alt="Meu banner" width='100%' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alura.com.br%2Fartigos%2Freact-js&psig=AOvVaw2hD7MI8e6wswACbMknWM_5&ust=1715127516421000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDJ8IWi-oUDFQAAAAAdAAAAABAi">
 <p>
 <strong> 
 👋 Olá, meu nome é Cauã, tenho 17 anos e atualmente estou dedicado aos estudos na área de tecnologia. Ao longo do tempo, desenvolvi uma abordagem organizada e comprometida em relação ao meu futuro acadêmico e profissional.
