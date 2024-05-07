@@ -1,4 +1,4 @@
-<img align="center" alt="Meu banner" width='100%' src="(https://github.com/Mendescaua/Mendescaua/assets/104581895/3ec4dfbb-88db-4013-b504-e2d000bdf26d)
+<img align="center" alt="Meu banner" width='100%' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.linkedin.com%2Fin%2Flucasheverton&psig=AOvVaw2hD7MI8e6wswACbMknWM_5&ust=1715127516421000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDJ8IWi-oUDFQAAAAAdAAAAABAW
 ">
 <p>
 <strong> 
