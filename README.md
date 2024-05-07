@@ -1,4 +1,5 @@
-<img align="center" alt="Meu banner" width='100%' src="https://i.pinimg.com/564x/da/da/a0/dadaa0cd739ca2cc6e6cf9479fcf1afb.jpg">
+<img align="center" alt="Meu banner" width='100%' src="![image](https://github.com/Mendescaua/Mendescaua/assets/104581895/3ec4dfbb-88db-4013-b504-e2d000bdf26d)
+">
 <p>
 <strong> 
 👋 Olá, meu nome é Cauã, tenho 17 anos e atualmente estou dedicado aos estudos na área de tecnologia. Ao longo do tempo, desenvolvi uma abordagem organizada e comprometida em relação ao meu futuro acadêmico e profissional.
