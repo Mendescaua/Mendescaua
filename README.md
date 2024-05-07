@@ -1,10 +1,11 @@
-<img align="center" alt="Meu banner" width='100%' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alura.com.br%2Fartigos%2Freact-js&psig=AOvVaw2hD7MI8e6wswACbMknWM_5&ust=1715127516421000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDJ8IWi-oUDFQAAAAAdAAAAABAi">
+<img align="center" alt="Meu banner" width='100%' src="">
 <p>
 <strong> 
 👋 Olá, meu nome é Cauã, tenho 17 anos e atualmente estou dedicado aos estudos na área de tecnologia. Ao longo do tempo, desenvolvi uma abordagem organizada e comprometida em relação ao meu futuro acadêmico e profissional.
 Recentemente, concluí um curso técnico em Desenvolvimento de Sistemas, o que ampliou meu entendimento nesse campo específico. Contudo, meu interesse por programação persiste, e estou ansioso para continuar aprimorando minhas habilidades nessa área.
 Além disso, estou matriculado em um curso de inglês na instituição CNA, reconhecendo a importância do domínio desse idioma no contexto da tecnologia e do desenvolvimento profissional.
-Tenho o hábito de aprender com os desafios e erros, sempre buscando oportunidades para aprimorar meu desenvolvimento a cada dia. Estou confiante de que essa mentalidade de aprendizado contínuo contribuirá positivamente para meu crescimento pessoal e profissional.</strong>
+Tenho o hábito de aprender com os desafios e erros, sempre buscando oportunidades para aprimorar meu desenvolvimento a cada dia. Estou confiante de que essa mentalidade de aprendizado contínuo contribuirá positivamente para meu crescimento pessoal e profissional.
+</strong>
 </p>
 - 💼 Open to Work
 
