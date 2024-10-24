@@ -17,6 +17,7 @@ Tenho o hábito de aprender com os desafios e erros, sempre buscando oportunidad
   <img align="center" alt="Cauã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cauã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cauã-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cauã-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2kPaSN4r0Mun0RXDmjKHnNcOADfgynCeVw&s)">
 </div>
 
 <div><br>
