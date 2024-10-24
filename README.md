@@ -1,4 +1,4 @@
-<img align="center" alt="Meu banner" width='100%' height='10%' src="https://blog.cronapp.io/wp-content/uploads/2020/09/javascript-1.jpg">
+<img align="center" alt="Meu banner" width='100%' height='5%' src="https://blog.cronapp.io/wp-content/uploads/2020/09/javascript-1.jpg">
 <p>
 <strong> 
 👋 Olá, meu nome é Cauã, tenho 17 anos e atualmente estou dedicado aos estudos na área de tecnologia. Ao longo do tempo, desenvolvi uma abordagem organizada e comprometida em relação ao meu futuro acadêmico e profissional.
