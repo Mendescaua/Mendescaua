@@ -2,10 +2,9 @@
 <p>
 <strong> 
 👋 Olá! Sou Cauã, estudante de Engenharia de software na Estácio, explorando as possibilidades do mundo da tecnologia e ansioso para transformar meu conhecimento teórico em prática.
-
-Formação: Estou cursando Engenharia de software na Estácio (2024 - 2028) e concluí o curso Técnico em Desenvolvimento de Sistema na Etec Uirapuru.
-
-Possuo habilidades técnicas em JavaScript, React e node.Js. além de experiência com plataformas e ferramentas como Trello, Monday e Figma.
+  Formação: Estou cursando Engenharia de software na Estácio (2024 - 2028) e concluí o curso Técnico em Desenvolvimento de Sistema na Etec Uirapuru.
+  Possuo habilidades técnicas em JavaScript, React e node.Js. 
+  além de experiência com plataformas e ferramentas como Trello, Monday e Figma.
 </strong>
 </p>
 
