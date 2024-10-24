@@ -7,13 +7,12 @@ Além disso, estou matriculado em um curso de inglês na instituição CNA, reco
 Tenho o hábito de aprender com os desafios e erros, sempre buscando oportunidades para aprimorar meu desenvolvimento a cada dia. Estou confiante de que essa mentalidade de aprendizado contínuo contribuirá positivamente para meu crescimento pessoal e profissional.
 </strong>
 </p>
-- 💼 Open to Work
 
-- 🌱 Estudando JavaScript, Typescript / React e Inglês
+- 🌱 Estudando Flutter
 
 - 📩 Contate-me pelo email: cauamende1703@gmail.com
 
-## Tecnologias que estou aprendendo no momento  
+## Tecnologias que tenho conhecimento!  
 <div style="display: inline_block">
   <img align="center" alt="Cauã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cauã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
