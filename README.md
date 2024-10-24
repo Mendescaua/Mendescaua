@@ -8,7 +8,7 @@ Tenho o hábito de aprender com os desafios e erros, sempre buscando oportunidad
 </strong>
 </p>
 
-- 🌱 Estudando Flutter
+- 🌱 Estudando Flutter / Dart
 
 - 📩 Contate-me pelo email: cauamende1703@gmail.com
 
