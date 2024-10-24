@@ -1,10 +1,11 @@
 <img align="center" alt="Meu banner" width='100%' height='5%' src="https://blog.cronapp.io/wp-content/uploads/2020/09/javascript-1.jpg">
 <p>
 <strong> 
-👋 Olá, meu nome é Cauã, tenho 17 anos e atualmente estou dedicado aos estudos na área de tecnologia. Ao longo do tempo, desenvolvi uma abordagem organizada e comprometida em relação ao meu futuro acadêmico e profissional.
-Recentemente, concluí um curso técnico em Desenvolvimento de Sistemas, o que ampliou meu entendimento nesse campo específico. Contudo, meu interesse por programação persiste, e estou ansioso para continuar aprimorando minhas habilidades nessa área.
-Além disso, estou matriculado em um curso de inglês na instituição CNA, reconhecendo a importância do domínio desse idioma no contexto da tecnologia e do desenvolvimento profissional.
-Tenho o hábito de aprender com os desafios e erros, sempre buscando oportunidades para aprimorar meu desenvolvimento a cada dia. Estou confiante de que essa mentalidade de aprendizado contínuo contribuirá positivamente para meu crescimento pessoal e profissional.
+👋 Olá! Sou Cauã, estudante de Engenharia de software na Estácio, explorando as possibilidades do mundo da tecnologia e ansioso para transformar meu conhecimento teórico em prática.
+
+Formação: Estou cursando Engenharia de software na Estácio (2024 - 2028) e concluí o curso Técnico em Desenvolvimento de Sistema na Etec Uirapuru.
+
+Possuo habilidades técnicas em JavaScript, React e node.Js. além de experiência com plataformas e ferramentas como Trello, Monday e Figma.
 </strong>
 </p>
 
