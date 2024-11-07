@@ -7,7 +7,7 @@
 </strong>
 </p>
 
-- 🌱 Estudando Flutter / Dart
+- 🌱 Estudando Flutter / Dart / C#
 
 - 📩 Contate-me pelo email: cauamende1703@gmail.com
 
