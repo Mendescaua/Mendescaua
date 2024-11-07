@@ -1,4 +1,3 @@
-<img align="center" alt="Meu banner" width='50%' height='50%' src="https://blog.cronapp.io/wp-content/uploads/2020/09/javascript-1.jpg">
 <p>
 <strong> 
 👋 Olá! Sou Cauã, estudante de Engenharia de software na Estácio, explorando as possibilidades do mundo da tecnologia e ansioso para transformar meu conhecimento teórico em prática.
