@@ -11,7 +11,7 @@
 
 - 📩 Contate-me pelo email: cauamende1703@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendescaua&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendescaua&layout=compact&theme=tokyonight)
 
 ## Tecnologias que tenho conhecimento!  
 <div style="display: inline_block">
