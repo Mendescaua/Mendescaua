@@ -9,9 +9,10 @@
 
 - 🌱 Estudando Flutter / Dart / C#
 
-- 📩 Contate-me pelo email: cauamende1703@gmail.com  
+- 📩 Contate-me pelo email: cauamende1703@gmail.com
 
-![Cauã GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendescaua&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendescaua&layout=compact)
+
 ## Tecnologias que tenho conhecimento!  
 <div style="display: inline_block">
   <img align="center" alt="Caua-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
