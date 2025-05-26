@@ -7,8 +7,6 @@
 
 </p>
 
-- 🌱 Estudando Flutter / Dart / Python
-
 - 📩 Contate-me pelo email: cauamende1703@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendescaua&layout=compact&theme=tokyonight)
