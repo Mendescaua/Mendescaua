@@ -3,10 +3,7 @@
 <strong> 
  Hello! I'm Cauã, a software engineering student at Estácio, exploring the possibilities of the world of technology and eager to transform my theoretical knowledge into practice.
 </strong> 
-  
   <strong>Education:</strong> I am studying Software Engineering at Estácio (2024 - 2028) and completed the Technical Course in Systems Development at Etec Uirapuru.
-
-
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendescaua&layout=compact&theme=tokyonight)
