@@ -6,6 +6,8 @@
   <strong>Education:</strong> I am studying Software Engineering at Estácio (2024 - 2028) and completed the Technical Course in Systems Development at Etec Uirapuru.
 </p>
 
+- [Portfólio]([https://ronald1134.github.io/portifolio/](https://mendescaua.netlify.app))
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendescaua&layout=compact&theme=tokyonight)
 
 ## Technologies I know about! 
