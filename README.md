@@ -8,8 +8,6 @@
 
 - [Portfólio](https://mendescaua.netlify.app)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendescaua&layout=compact&theme=tokyonight)
-
 ## Technologies I know about! 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,supabase,firebase,postman,git,cs,fastapi,figma,vscode)](https://skillicons.dev)<p align="center">
 
