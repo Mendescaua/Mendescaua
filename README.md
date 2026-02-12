@@ -6,7 +6,7 @@
   <strong>Education:</strong> I am studying Software Engineering at Estácio (2024 - 2028) and completed the Technical Course in Systems Development at Etec Uirapuru.
 </p>
 
-- [Portfólio](https://mendescaua.netlify.app)
+- [Não clique aqui!](https://mendescaua.netlify.app)
 
 ## Technologies I know about! 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,supabase,firebase,postman,git,cs,fastapi,figma,vscode)](https://skillicons.dev)<p align="center">
