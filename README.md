@@ -1,4 +1,4 @@
-# Hey There! 👋
+# Hey There!👋
 <p>
 <strong> 
  Hello! I'm Cauã, a software engineering student at Estácio, exploring the possibilities of the world of technology and eager to transform my theoretical knowledge into practice.
