@@ -9,7 +9,7 @@
 - [Não clique aqui!](https://mendescaua.netlify.app)
 
 ## Technologies I know about! 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,supabase,firebase,postman,git,cs,fastapi,figma,vscode)](https://skillicons.dev)<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,supabase,gcp,firebase,postman,git,fastapi,figma)](https://skillicons.dev)<p align="center">
 
 
 <div><br>
